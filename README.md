@@ -1,4 +1,5 @@
 # reparaciones
+![programa](./img/programa.png)
 
 <H3>Instalacion de python y pip</H3>
 
