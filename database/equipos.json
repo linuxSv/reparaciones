@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "client_id": 1,
+        "client_name": "master hdez",
+        "type": "iPhone",
+        "brand": "15 promax",
+        "model": "a1789",
+        "serial": "455464574987",
+        "issues": "cambio de pantalla",
+        "cost": 150.0,
+        "advance": 25.0,
+        "status": "Entregado",
+        "date_received": "2025-04-09 23:21:14",
+        "date_delivered": "2025-04-09 23:22:02",
+        "images": [],
+        "factura_num": 1001
+    }
+]
