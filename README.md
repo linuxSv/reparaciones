@@ -1,4 +1,4 @@
-# ✨ ¡Hola Mundo! Soy [MasterSv] 👋
+# ✨ ¡Hola Mundo! Soy [MasterSv] recuerden este programa corre en python Windows - Linux y Mac 👋
 
 🚀 **Desarrollador apasionado** | 💻 **Código abierto** | ☕ **Amante del café**  
 
