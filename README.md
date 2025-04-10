@@ -36,3 +36,7 @@ pip install XlsxWriter
 ```bash
 C:\Users\ezequ\Downloads\taller3\taller3\taller3.py
 ```
+## imagenes de muestra del programa
+![programa](/img/recibo.png)
+![programa](/img/reporte.png)
+![programa](/img/factura.png)
